@@ -1,0 +1,62 @@
+p {
+  padding: 20px 7px 0px 7px;
+  font-family: Georgia sans-serif;
+  font-size: 16px;
+  position: relative;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+h1{
+    padding: 20px 20px 20px 20px;
+    float: center;
+}
+.div {
+  text-align: justify;
+}
+#choix1 {
+  background-color:  #86632d;
+
+}
+#choix2 {
+  background-color: #15591d;
+
+}
+
+#choix3 {
+  background-color:  #2c4799;
+
+}
+span {
+  font-size: 20px;
+
+  width: 150px;
+
+  border-right: 1px solid black;
+
+  border-top: 1px solid black;
+
+  border-left: 2px solid black;
+
+  border-bottom: 2px solid black;
+
+  font-weight: bold;
+
+  text-align: center;
+
+  float: right;
+
+  top: 0;
+
+  right: 0;
+
+  margin: 2;
+  position: absolute;
+  padding: 2px;}
+  .section {
+    background-color: rgb(150, 150, 150);
+    border: 2px solid black;
+    margin-top: 30px;
+    margin-right: 20px;
+    padding: 3px;
+    text-align: justify;
+    position: relative;
+  }
